@@ -1,0 +1,33 @@
+Terrorist Id,Terrorist Name,Nationality,Affilation,Latitude,Longitude
+0,Abdel_Qader_Mahmoud_Es_Sayed,Egyptian, Al-Qaeda,30.06263,31.24967
+1,Abderraouf_Hannachi,Algerian, Al-Qaeda,36.7525,3.04197
+3,Ahmed_Said_Khadr,Egyptian, Al-Qaeda,29.97371,32.52627
+9,Habib_Zacarias_Moussaoui,French, Al-Qaeda,48.85341,2.3488
+11,Imad_Edin_Barakat_Yarkas,Syrian, Al-Qaeda,35.13179,36.75783
+16,Mamdouh_Mahmud_Salim,Iraqi, Al-Qaeda,36.33091,43.09065
+17,Mohammed_el-Amir_Awad_el-Sayed_Atta,Egyptian, Al-Qaeda,31.21564,29.95527
+19,Mustafa_Ahmed_al-Hawsawi,Saudi, Al-Qaeda,24.49258,39.58572
+23,Omar_Mahmoud_Othman,Jordanian, Al-Qaeda,31.95522,35.94503
+26,Raeed_Hijazi,American, Al-Qaeda,41.85003,-87.65005
+27,Ramzi_Mohd_Abdullah_bin_al-Shibh,Yemeni, Al-Qaeda,15.6594,43.94385
+28,Richard_Colvin_Reid,British, Al-Qaeda,51.51279,-0.09184
+33,Wadih_el-Hage,American, Al-Qaeda,40.71427,-74.00597
+34,Waleed_Mohd_Tawfiq_bin_Attash,Yemeni, Al-Qaeda,16.16406,44.77692
+35,Wali_Khan_Amin_Shah,Turkmen, Al-Qaeda,38.78393,63.88035
+38,AhmedRessam,Algerian, Al-Qaeda,35.69111,-0.64167
+39,OBL,Saudi, Al-Qaeda,24.68773,46.72185
+45,KSM,Pakistani, Al-Qaeda,31.54972,74.34361
+47,abu_Faraj_al-Libbi,Libyan, Al-Qaeda,32.43501,13.6332
+63,Saif_Aldin_Mustafa_Nuaimi,Iraqi, Al-Qaeda,36.335,43.11889
+65,Hasib_Mir_Hussain,British, Al-Qaeda,53.48095,-2.23743
+66,Shehzad_Tanweer,British, Al-Qaeda,50.90395,-1.40428
+67,Mohammad_Sidique_Khan,British, Al-Qaeda,55.95206,-3.19648
+68,Germaine_Lindsay,British, Al-Qaeda,53.95763,-1.08271
+70,Abu_Khaled, Syrian, Al-Qaeda,35.53168,35.79011
+212,Rahman,Libyan, Al-Qaeda,32.64861,14.26191
+213,Zawahiri,Egyptian, Al-Qaeda,31.25654,32.28411
+214,IHBerro,Lebanese,Hezbollah,33.27333,35.19389
+225,KhaledMashal,Jordanian,Hamas ,32.55556,35.85
+227,HassanNasrallah,Lebanese,Hezbollah,33.88894,35.49442
+231,UmarBaziyani,Iraqi, Al-Qaeda ,33.34058,44.40088
+232,Zarqawi,Jordanian, Al-Qaeda ,32.01778,36.04639
