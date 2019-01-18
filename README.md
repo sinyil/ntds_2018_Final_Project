@@ -36,8 +36,7 @@ target in order to successfully disrupt and weaken the network.
 
 *******************************************************
 ******************Content of Repository****************
-- TerroristRel Data Set
-- Final Notebook  : Jupyter Notebook for Data Exploration & Data Exploitation
-- Final Report
-- Images Obtained by Gephi 0.9.2
-- Terrorist_Nationality_Affilation.csv : Collected data for geomap mentioned in Final Report 
+- TerroristRel Dataset
+- Final Notebook.ipynb  : Jupyter Notebook for Data Exploration & Data Exploitation
+- EE_558_Project_Report
+- CSV Files : Collected data for geomap mentioned in EE_558_Project_Report
